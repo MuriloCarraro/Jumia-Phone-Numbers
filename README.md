@@ -31,6 +31,6 @@ $ insert into TBL_PHONES values((select substr(u,1,8)||'-'||substr(u,9,4)||'-4'|
 ```
 
 ### Extra features:
-  - Responsive Web Design on on different screens: 
+  - Responsive Web Design on different screens: 
 
 ![Mobile](https://github.com/MuriloCarraro/Jumia-Phone-Numbers/blob/main/images/Screen%20Shot%201.png)
